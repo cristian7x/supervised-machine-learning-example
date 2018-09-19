@@ -1,6 +1,6 @@
 # Classification Algorithms
 In machine learning and statistics, classification is a supervised learning approach in which the computer program learns from the data input given to it and then uses this learning to classify new observation.\
-This is an example of the use of classification algorithms to build a machine learning model to predict whether or not the patients in a dataset have diabetes or not.
+This is an example of the use of classification algorithms to build a machine learning model to predict whether the patients in a dataset have diabetes or not.
 
 ## Dataset: Pima Indians Diabetes
 
